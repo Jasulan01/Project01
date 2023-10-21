@@ -1,0 +1,126 @@
+.block1 {
+    background-color: #FBFAF9;
+    width: 1440px;
+    height: 910px;
+    position: static;
+
+    
+}
+
+nav {
+    display: inline-flex;
+    width: 1440px;
+    height: 114px;
+   
+
+}
+
+.navbar-list a {
+    color: #878787;
+    text-decoration: none;
+    display: inline-block;
+    
+
+}
+
+.navbar-list li {
+    display: inline-block;
+    gap: 32px;
+    
+
+
+}
+
+.navbar-links a {
+    color: #1D1D21;
+    gap: 15px;
+
+}
+
+.navbar-links button {
+
+  background-color: #1D1D21;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 100px;
+  left: 1052px;
+
+
+}
+
+.house1 {
+    display: inline-block;
+
+}
+
+.House1-button button {
+   
+  background-color: white;
+  border: nocne;
+  color: #1D1D21;
+  padding: 8px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 100px;
+  left: 120px;
+  border-color: black;
+
+}
+.house1 {
+    width: 764px;
+ height: 308px;
+ top: 237px;
+ left: 120px;
+
+}
+.house-description {
+    color: #878787;
+    
+}
+
+.house2 {
+    width: 523px;
+    height: 523px;
+    top: 288px;
+    left: 660px;
+    position: static ;  left: 66px; 
+
+}
+
+.House1-button2 button {
+
+    background-color: #1D1D21;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 100px;
+    left: 1052px;
+  
+}
+
+.House1-button3 button {
+   
+    background-color: white;
+    border: nocne;
+    color: #1D1D21;
+    padding: 8px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 100px;
+    left: 120px;
+    border-color: black;
+  
+  }
